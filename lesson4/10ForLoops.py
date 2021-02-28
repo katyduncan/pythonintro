@@ -83,12 +83,12 @@ print(html_str)
 # Quiz: Match Inputs to Outputs
 print(list(range(0,-5))) #[]
 
+# Quiz 2 of 3
 colors = ['Red', 'Blue', 'Green', 'Purple']
 lower_colors = [ ]
 
 for color in colors:
     #finish this part
     lower_colors.append(color.lower())
-    lower_colors.append(lower(color))
 
 print(lower_colors)
